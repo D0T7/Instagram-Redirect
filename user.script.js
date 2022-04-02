@@ -2,7 +2,7 @@
 // ==UserScript==
 // @name Instagram Redirect
 // @namespace http://tampermonkey.net/
-// @updateURL https://github.com/D0T7/Instagram-Redirect/raw/master/user.script.js
+// @updateURL https://github.com/D0T7/Instagram-Redirect/raw/main/user.script.js
 // @version 0.1
 // @description	Redirect Instagram
 // @run-at document-start
