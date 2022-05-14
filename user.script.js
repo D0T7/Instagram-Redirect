@@ -6,6 +6,7 @@
 // @icon https://github.com/D0T7/Instagram-Redirect/raw/main/inst.png
 // @version 0.2
 // @description	Redirect Instagram
+// @author          D0T7 (https://github.com/D0T7)
 // @run-at document-start
 // @match *://instagram.com/*
 // @match *://*.instagram.com/*
