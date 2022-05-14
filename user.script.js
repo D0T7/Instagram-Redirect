@@ -4,7 +4,7 @@
 // @namespace http://tampermonkey.net/
 // @updateURL https://github.com/D0T7/Instagram-Redirect/raw/main/user.script.js
 // @icon https://github.com/D0T7/Instagram-Redirect/raw/main/inst.png
-// @version 0.2
+// @version 0.3
 // @description	Redirect Instagram
 // @author          D0T7 (https://github.com/D0T7)
 // @run-at document-start
